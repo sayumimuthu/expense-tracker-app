@@ -1,2 +1,2 @@
-# expense-tracker-app
-An application to manage expenses and track budgets effectively.
+# Expense-Tracker-App
+An application to help trak expenses and manage budgets effectively.
