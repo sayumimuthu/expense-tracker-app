@@ -5,4 +5,3 @@ UI Design
 
 Implementation Details:
 
-Contact Details: 
