@@ -9,5 +9,3 @@ Implementation Details:
 Functionalities:
 -Track of income
 -Track of expenses
-
-Contact Details:
